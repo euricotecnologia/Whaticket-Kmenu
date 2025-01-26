@@ -1,5 +1,6 @@
 # Whaticket-Kmenu
  Sistema de Multiatendimento para Whatsapp, Facebook e Instagram, a melhor versão.
+
  
 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
 
@@ -212,3 +213,45 @@
 🌐 Demo: demo5.kmenu.com.br
 
 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
+
+ <div align="center">
+<img src="https://github.com/user-attachments/assets/b8e1ab52-a915-4375-b93a-f2a7f8a518de" width="700px" />
+</div>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/7373ba1c-d61d-4002-ab09-896093474230" width="700px" />
+</div>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/440d8723-447d-4812-aa51-5766199bc829" width="700px" />
+</div>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/bb720633-1ad6-46e2-bc59-2f860a9e7e49" width="700px" />
+</div>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/21e742c3-71f7-452f-9ced-20019dc2adbd" width="700px" />
+</div>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/76d9700b-888a-4e02-8cd1-380ec07042fc" width="700px" />
+</div>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/db06f84c-5763-406a-a73c-7da1ebb2bf78" width="700px" />
+</div>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/9ee58e42-cddf-41b9-91c1-d448e1e4f405" width="700px" />
+</div>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/0c593685-769a-4817-81db-4af972d8d0bd" width="700px" />
+</div>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/fc658cda-bb5f-4148-acd1-8826d8459d32" width="700px" />
+</div>
+
+
