@@ -1,6 +1,10 @@
 # Whaticket-Kmenu
  Sistema de Multiatendimento para Whatsapp, Facebook e Instagram, a melhor versão.
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/d53185c4-8660-433b-8712-ab00f2b972b1" width="300px" />
+</div>
+
  
 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
 
