@@ -1,4 +1,5 @@
 # Whaticket-Kmenu
+Versão: 5.0.2
  Sistema de Multiatendimento para Whatsapp, Facebook e Instagram, a melhor versão.
 
 <div align="center">
