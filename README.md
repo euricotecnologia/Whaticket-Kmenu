@@ -9,14 +9,17 @@
 
 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
 
-📞 Maiores informações: Whatsapp: +55 19971395449
+<body>
+  <a href="https://wa.me/5519971395449" target="_blank" rel="noopener noreferrer">
+    📞 Clique aqui e chame no Whatsapp +55 19971395449
+  </a>
+</body>
 
 ✉️ Email: euricotecnologia@gmail.com
 
 🌐 Demo: demo5.kmenu.com.br
 
 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
-
 
 
 👉🏻 Novidades da versão 5.0.1
@@ -211,15 +214,19 @@
 
 🟢 Ignorar mensagens de Grupos
 
-🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
+🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
 
-📞 Maiores informações: Whatsapp: +55 19971395449
+<body>
+  <a href="https://wa.me/5519971395449" target="_blank" rel="noopener noreferrer">
+    📞 Clique aqui e chame no Whatsapp +55 19971395449
+  </a>
+</body>
 
 ✉️ Email: euricotecnologia@gmail.com
 
 🌐 Demo: demo5.kmenu.com.br
 
-🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
+🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
 
  <div align="center">
 <img src="https://github.com/user-attachments/assets/b8e1ab52-a915-4375-b93a-f2a7f8a518de" width="700px" />
