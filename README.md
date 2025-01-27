@@ -4,12 +4,12 @@
  Sistema de Multiatendimento para Whatsapp, Facebook e Instagram, a melhor versão.
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/d53185c4-8660-433b-8712-ab00f2b972b1" width="200px" />
+<img src="https://github.com/user-attachments/assets/d53185c4-8660-433b-8712-ab00f2b972b1" width="300px" />
 </div>
 
  
 
-🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
+*********************
 
 <body>
   <a href="https://wa.me/5519971395449" target="_blank" rel="noopener noreferrer">
@@ -21,7 +21,13 @@
 
 🌐 Demo: demo5.kmenu.com.br
 
-🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
+*********************
+
+❗ Disponivel em Portugues e Espanhol
+
+❗ Disponible en Portugués y Español.
+
+*********************
 
 
 👉🏻 Novidades da versão 5.0.1
@@ -108,6 +114,8 @@
 
 🟢 Novo Instalador
 
+*********************
+
 👉🏻 Integrações com:
 
 🟢 Whatsapp
@@ -137,6 +145,8 @@
 🟢 OpenAi
 
 🟢 EFI (GerenciaNET)
+
+*********************
 
 👉🏻 Veja algumas informações sobre o sistema
 
@@ -216,7 +226,206 @@
 
 🟢 Ignorar mensagens de Grupos
 
-🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
+
+*********************************************************
+
+👉🏻 Novedades de la versión 5.0.1 - En español
+
+🟢 Actualización de API
+
+🟢 Transcripción de audio actualizada
+
+🟢 Se ha creado un nuevo campo para repetir la contraseña al registrar cuentas (Verificar si las contraseñas son correctas)
+
+🟢 Se ha creado nuevo campo para repetir la contraseña en Editar Usuario (Comprobar si las contraseñas son correctas)
+
+🟢 En la configuración del sistema, los campos de la tabla se cambiaron a Cambiar
+
+🟢 Organización de los campos de configuración
+
+🟢 En la creación de Planes de Suscripción, se remodeló, haciéndolo responsivo con Grid
+
+🟢 En Creación de ayuda se remodeló haciéndolo responsivo con Grid
+
+🟢 Actualización Financiera, ahora con Pagos vía: Tarjeta de Crédito, Tarjeta Débito y PIX
+
+🟢 Cambia el fondo de inicio de sesión y firma directamente desde la carpeta de activos
+
+🟢 Copyright de Login y firma directamente desde el archivo package.json (frontend)
+
+🟢 Corrección del diseño de la página de suscripción
+
+🟢 Actualización de OpenAi
+
+🟢 Eliminación del modo oscuro
+
+🟢 Actualización de NodeJS
+
+🟢 Se agregó Cron en la instalación
+
+🟢 Se agregó botón para iniciar sesión en el sistema en Registro
+
+🟢 Se agregó un color sólido a la barra superior del sistema.
+
+🟢 Se reemplazaron los íconos predeterminados con íconos coloridos
+
+🟢 Se agregaron tareas con editor de texto y emojis
+
+🟢 Se agregó ayuda para soporte en el menú
+
+🟢 Se agregó a la barra lateral para obtener la versión del sistema directamente desde el archivo package.json (frontend)
+
+🟢 Se agregaron variables al flujo
+
+🟢 Se cambiaron los contactos de tabla a cuadrícula
+
+🟢 Se cambió el panel de tabla a cuadrícula
+
+🟢 Se cambiaron las respuestas rápidas de tabla a cuadrícula
+
+🟢 Se cambiaron las etiquetas de tabla a cuadrícula
+
+🟢 Se modificó la información de la tabla a la cuadrícula
+
+🟢 Se cambiaron los usuarios de tabla a cuadrícula
+
+🟢 Se cambiaron las colas y el chatbot de tabla a cuadrícula
+
+🟢 Se cambió en OpenAI de tabla a cuadrícula
+
+🟢 Integraciones modificadas de tabla a cuadrícula
+
+🟢 Se modificó la gestión de conexiones de tabla a cuadrícula
+
+🟢 Se cambiaron las conexiones de tabla a cuadrícula
+
+🟢 Se modificó la lista de archivos de tabla a cuadrícula
+
+🟢 Se cambiaron las campañas de tabla a cuadrícula
+
+🟢 Se cambiaron las empresas de tabla a cuadrícula
+
+🟢 Documentación API agregada
+
+🟢 Nuevo panel de control
+
+🟢 Nuevo Servicio
+
+🟢 Nuevo instalador
+
+*********************
+
+👉🏻 Integraciones con:
+
+🟢Whatsapp
+
+🟢Facebook
+
+🟢 Instagram
+
+🟢 ChatGPT
+
+🟢 Flujo de diálogo
+
+🟢 TipoBot
+
+🟢 Webhooks
+
+🟢 CRM Kanban
+
+🟢 Nueva versión de FlowBuilder
+
+🟢 Mercado Pago
+
+🟢 Raya
+
+🟢 Alas
+
+🟢Ai abierto
+
+🟢 EFI (GerenciaNET)
+
+*********************
+
+👉🏻 Ver información sobre el sistema
+
+🟢 Sistema SASS
+
+🟢 Multiempresa
+
+🟢 Panel de servicio
+
+🟢 Creación de chatbots por flujos
+
+🟢 CRM Kanban
+
+🟢 Integraciones con los flujos más grandes del mercado
+
+🟢 Control de grupo
+
+🟢 Tiroteo masivo
+
+🟢 Informes
+
+🟢 Control del equipo
+
+🟢 Control de Notas de Servicio
+
+🟢 Control de Protocolo
+
+🟢 Control de revisión
+
+🟢 Control de Servicios por Monederos
+
+🟢 Transferencia automática de cola
+
+🟢 Finalizar servicio por tiempo de inactividad
+
+🟢 Organización del orden de cola
+
+🟢 Envío de saludo al aceptar un ticket
+
+🟢 Enviar un mensaje de transferencia
+
+🟢 Tener varios agentes conectados a una cuenta
+
+🟢 Sin límite de WhatsApp
+
+🟢 Sin límite de mensajes
+
+🟢 Crea colas de servicios como Comercial, Soporte, Financiera, etc.
+
+🟢 Menú de inicio interactivo.
+
+🟢 Transferencia de cola.
+
+🟢 Registrar usuarios
+
+🟢 Enviar archivos, grabar audio, etc.
+
+🟢 Respuestas rápidas;
+
+🟢 Sistema Responsivo, realiza tus citas vía celular.
+
+🟢 Sistema API (Para envíos vía Post validados por un Token).
+
+🟢Etiquetas.
+
+🟢 Respuestas rápidas
+
+🟢 Horario de apertura
+
+🟢 Códigos cortos con identificación de nombre, protocolo de servicio, etc.
+
+🟢 Sistema de envío masivo de correos “Campañas, reportes y configuración de envíos”.
+
+🟢 Usuarios concurrentes
+
+🟢 Saludo y mensaje de fin de conversación
+
+🟢 Ignorar mensajes grupales
+
+*********************
 
 <body>
   <a href="https://wa.me/5519971395449" target="_blank" rel="noopener noreferrer">
@@ -228,7 +437,7 @@
 
 🌐 Demo: demo5.kmenu.com.br
 
-🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
+*********************
 
  <div align="center">
 <img src="https://github.com/user-attachments/assets/b8e1ab52-a915-4375-b93a-f2a7f8a518de" width="700px" />
