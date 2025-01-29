@@ -29,6 +29,27 @@
 
 *********************
 
+👉🏻 Novidades da versão 5.0.2 - 29-01-2025
+
+🟢 Atualização da API
+
+🟢 Criação para repetir a senha no cadastro de conta
+
+🟢 Criação no cadastro de usuário para repetir a senha 
+
+🟢 Troca dos componentes para o Switch
+
+🟢 Melhorias no Layout
+
+🟢 Atualização do Open.AI
+
+🟢 Atualização API Mercado Pago
+
+🟢 Atualização API Asaas
+
+🟢 Mudança do componente table por grid
+
+*********************
 
 👉🏻 Novidades da versão 5.0.1
 
@@ -228,6 +249,28 @@
 
 
 *********************************************************
+
+👉🏻 Novedades de la versión 5.0.2 - 29-01-2025
+
+🟢 Actualización de API
+
+🟢 Creación para repetir la contraseña en el registro de la cuenta
+
+🟢 Creación en el registro de usuario para repetir la contraseña
+
+🟢 Reemplazo de componentes para el Switch
+
+🟢 Mejoras de diseño
+
+🟢 Actualización de Open.AI
+
+🟢 Actualización de la API de Mercado Pago
+
+🟢 Actualización de la API de Asaas
+
+🟢 Cambiar el componente de tabla a cuadrícula
+
+*********************
 
 👉🏻 Novedades de la versión 5.0.1 - En español
 
