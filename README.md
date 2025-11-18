@@ -19,7 +19,7 @@
 
 ✉️ Email: euricotecnologia@gmail.com
 
-🌐 Demo: demo5.kmenu.com.br
+🌐 Demo: demonovo.kmenu.com.br
 
 *********************
 
