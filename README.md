@@ -114,6 +114,7 @@
 
 
 
+
 👉🏻 Novidades da versão 5.0.2 - 29-01-2025
 
 🟢 Atualização da API
