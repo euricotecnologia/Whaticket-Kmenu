@@ -28,6 +28,50 @@
 ❗ Disponible en Portugués y Español.
 
 *********************
+👉🏻 Novidades da versão 6.1.9 - 15-11-2025
+
+🔵 Atualização API Baileys para 6.7.21
+🔵 atualização LID / JID
+🔵 Adicionado Facebook (Oficial), Instagram (Oficial), Telegram (Oficial) e Whatsapp (Oficial)
+🔵 Importação e Exportação de Fluxo
+🔵 Agora com suporte para Apple (iPhone / Mac)
+🔵 Atualizado API
+🔵 No Atendimento agora com Mensagens Rápidas visual em botões 
+🔵 Novo Player de áudio (multiplataforma)
+🔵 Contador de Contatos com legendas
+🔵 Adicionado Mapa do País com Estados e organização de contatos
+🔵 Adicionado Emoji em Agendamento
+🔵 Adicionado Emoji em Chat Interno
+🔵 Adicionado nova geração de suporte a Token para acesso externo
+🔵 Adicionado Plantão de Suporte
+🔵 Adicionado Emoji em Campanhas
+🔵 Adicionado Fluxo de Campanha para chamar um Fluxo por palavra-chave
+🔵 Adicionado emoji em Informativo
+🔵 Adicionado suporte para todos os numero de telefone dos Países
+🔵 Adicionado suporte para os Idiomas: Português, Espanhol e Inglês
+🔵 Adicionado Total de Desempenho no Atendimento direto no Dashboard
+🔵 Adicionado cadastro de Empresa direto pelo sistema
+🔵 Adicionado campo de busca em Empresas
+🔵 Adicionado recurso de arrastar as datas de Agendamentos
+🔵 Adicionado Voip (ligação direto pelo sistema)
+🔵 Adicionado recurso de clicar e arrastar as janelas
+🔵 Adicionado novo Menu com ícones e suporte a mudança de cores
+🔵 Em Empresa foi organizado com janela poup-up deixando responsivo
+🔵 Finalização dos Endpoint do sistema em várias linguagens
+🔵 Correção e atualização do Socket (segurança)
+🔵 Correção e atualização da política de permissão do menu
+🔵 Atualização do banco de dados para receber o agendamento
+🔵 Atualizado nova versão do componente do Facebook e Instagram
+🔵 Criação de variáveis para armazenamento de informações para o prompt (nome, idade, plano de saúde, médico, data, horário, protocolo, observações, especialidade)
+🔵 Envio no email informações de Cadastro de Empresa nova
+🔵 Substituido a imagem de fundo do Atendimento deixando mas visivil para conversa
+🔵 Novo sistema de recuperação de senhas
+🔵 Novo Bloco de Arquivo no Flowbuilder
+🔵 Adicionado Código de todos os Países
+🔵 Documentação completa da API
+🔵 Novo Load
+🔵 E muito mais...
+
 
 👉🏻 Novidades da versão 5.0.2 - 29-01-2025
 
